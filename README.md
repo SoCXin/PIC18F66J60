@@ -24,9 +24,8 @@
 
 #### [硬件资源](https://github.com/sochub/PIC18F66J60)
 
-* PIC18F66J60AS20 封装：TSSOP20 (4.4mm x 6.5mm)
-* PIC18F66J60AQ20 封装：QFN20 (3mm x 3mm, O.4mm pitch)
-* PIC18F66J60BQ20 封装：QFN20 (3mm x 3mm, O.5mm pitch)
+* PIC18F66J60 封装：TQFP64/TQFP64/80/100
+
 
 ### [选型建议](https://github.com/sochub)
 
