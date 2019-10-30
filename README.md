@@ -1,7 +1,7 @@
 ﻿# [PIC18F66J60](https://github.com/sochub/PIC18F66J60)
 [![sites](SoC/SoC.png)](http://www.qitas.cn)
 #### 厂商：[microchip](https://github.com/sochub/microchip)
-#### 内核：[8051](https://github.com/sochub/8051)
+#### 内核：[PIC18](https://github.com/sochub/PIC18)
 #### 芯片定级：[Level](https://github.com/sochub/Level)
 ## [PIC18F66J60简介](https://github.com/sochub/PIC18F66J60/wiki)
 
@@ -10,7 +10,7 @@
 
 关键特性：
 
-*  Integrated MAC and 10Base-T PHY，8-Kbyte Transmit/Receive Packet Buffer SRAM
+* Integrated MAC and 10Base-T PHY，8-Kbyte Transmit/Receive Packet Buffer SRAM
 * 5.5V Tolerant Inputs
 
 ### [资源组成](https://github.com/sochub/PIC18F66J60)
@@ -29,6 +29,6 @@
 
 ### [选型建议](https://github.com/sochub)
 
-[PIC18F66J60](https://github.com/sochub/PIC18F66J60)是集成以太网功能的低端控制芯片
+[PIC18F66J60](https://github.com/sochub/PIC18F66J60)集成以太网功能，作为底层有线通信直连控制设备
 
 ##  [SoC资源平台](http://www.qitas.cn)
