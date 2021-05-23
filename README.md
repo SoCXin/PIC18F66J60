@@ -1,34 +1,34 @@
-﻿# [PIC18F66J60](https://github.com/sochub/PIC18F66J60)
-[![sites](SoC/SoC.png)](http://www.qitas.cn)
-#### 厂商：[microchip](https://github.com/sochub/microchip)
-#### 内核：[PIC18](https://github.com/sochub/PIC18)
-#### 芯片定级：[Level](https://github.com/sochub/Level)
-## [PIC18F66J60简介](https://github.com/sochub/PIC18F66J60/wiki)
+﻿# [PIC18F66J60](https://github.com/SoCXin/PIC18F66J60)
 
- [PIC18F66J60](https://github.com/sochub/PIC18F66J60) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin)
+
+* [microchip](https://www.microchip.com/) ：[PIC](https://github.com/SoCXin/8051)
+* [L1R6](https://github.com/SoCXin/Level) ：41.667MHz / 10.5 DMIPS
+
+### [简介](https://github.com/SoCXin/PIC18F66J60/wiki)
+
+[PIC18F66J60](https://www.microchip.com/wwwproducts/en/PIC18F66J60)
 
 
-关键特性：
 
-* Integrated MAC and 10Base-T PHY，8-Kbyte Transmit/Receive Packet Buffer SRAM
+#### 关键特性
+
+* Integrated MAC and 10Base-T PHY
+* 8-Kbyte Transmit/Receive
 * 5.5V Tolerant Inputs
 
-### [资源组成](https://github.com/sochub/PIC18F66J60)
+#### 封装规格
 
-* [文档](docs/)
+* TQFP64/TQFP64/80/100
 
+### [资源收录](https://github.com/SoCXin/PIC18F66J60)
 
-#### [外部资源](https://github.com/sochub/PIC18F66J60)
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
 
+### [选型建议](https://github.com/SoCXin)
 
+[PIC18F66J60](https://github.com/SoCXin/PIC18F66J60)
 
-#### [硬件资源](https://github.com/sochub/PIC18F66J60)
-
-* PIC18F66J60 封装：TQFP64/TQFP64/80/100
-
-
-### [选型建议](https://github.com/sochub)
-
-[PIC18F66J60](https://github.com/sochub/PIC18F66J60)集成以太网功能，作为底层有线通信直连控制设备
-
-##  [SoC资源平台](http://www.qitas.cn)
+###  [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
